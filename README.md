@@ -5,4 +5,4 @@ Date: 1/27/21 <br />
 Team member: Alex Verkest has been added <br />
 Assignment: Classwork on Github <br />
 Description: We learned the basics of github and using git in the terminal window. We also made a simple HTML file and enabled Browser Sync to see changes made to the html file in browser in real time. <br />
-
+Link: https://t-husnetdinova.github.io/webapp_spring2021_test/ <br>
